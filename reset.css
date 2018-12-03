@@ -1,0 +1,15 @@
+/* reset main parameters
+import in main.scss
+and add style for .container */
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0%;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=reset.css.map */

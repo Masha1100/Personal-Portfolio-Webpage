@@ -1,0 +1,16 @@
+/* reset main parameters
+import in main.scss
+and add style for .container */
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:700|Open+Sans:400,400i");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0%;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=main.css.map */
